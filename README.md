@@ -1,6 +1,6 @@
 # Sup! Hello there!
 
-I am a person who really likes to code. My discord: [`norachai#9336`](https://discord.com)
+I am a person who really likes to code. 
 
 ## Languages
 
@@ -35,3 +35,6 @@ I am a person who really likes to code. My discord: [`norachai#9336`](https://di
 ## GitHub Information
 [![Nicholas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicholasxwang)](https://github.com/nicholasxwang/github-readme-stats)
 
+## Profiles
+*  Discord: [`norachai#9336`](https://discord.com)
+*  DevPost: [`nicholasxwang`](https://devpost.com/nicholasxwang)
