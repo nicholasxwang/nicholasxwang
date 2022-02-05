@@ -1,16 +1,25 @@
-### Hi there 👋
+### Sup! Hello there!
 
-<!--
-**nicholasxwang/nicholasxwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a person who really likes to code. My discord: [`norachai#9336`](https://discord.com)
 
-Here are some ideas to get you started:
+## Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* `HTML`
+* `CSS`
+* `JavaScript`
+* `Python`
+* `Java`
+* `Arduino`
+
+## What I Do
+
+* [USACO](https://usaco.org)
+* Codeforces
+* Hackathons
+* Websites
+* Discord Bots
+
+## Projects
+
+* [Terminal JS](https://github.com/terminal-js) with [`Blackhole11232`](https://github.com/Blackhole11232)
+* [Nebulus](https://github.com/ProjectNebulus)
