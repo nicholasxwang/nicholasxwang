@@ -1,6 +1,6 @@
-# Sup! Hello there!
+# Sup! How are you?
 
-I am a person who really likes to code. 
+I am a person who really likes to code. **Check out [Nebulus](https://nebulus.ml/)!** 
 
 ## Languages
 
