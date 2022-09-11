@@ -1,11 +1,12 @@
 # Sup! How are you?
 
-I am a person who really likes to code. **Check out [Nebulus](https://nebulus.ml/)!** 
+I am a person who really likes to code. **Check out [Nebulus](https://nebulus.app/)!** 
 
 ## Languages
 
 * `HTML`
 * `CSS`
+* `C++`
 * `JavaScript`
 * `Python`
 * `Java`
@@ -36,5 +37,5 @@ I am a person who really likes to code. **Check out [Nebulus](https://nebulus.ml
 [![Nicholas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicholasxwang)](https://github.com/nicholasxwang/github-readme-stats)
 
 ## Profiles
-*  Discord: [`norachai#9336`](https://discord.com)
+*  Discord: [`norachai#4856`](https://discord.com)
 *  DevPost: [`nicholasxwang`](https://devpost.com/nicholasxwang)
