@@ -1,8 +1,8 @@
-# Sup! How are you?
+# 👋 Hello! I'm Nicholas.
 
-I am a person who really likes to code. **Check out [Nebulus](https://nebulus.app/)!** 
+I am a Middle School Developer
 
-## Languages
+## Languages and Skills
 
 * `HTML`
 * `CSS`
@@ -11,14 +11,15 @@ I am a person who really likes to code. **Check out [Nebulus](https://nebulus.ap
 * `Python`
 * `Java`
 * `Arduino`
-
-## Other Skills
-
 * `MongoDB`
+* `Algorithms`
+* `USACO`
+* `DigitalOcean`
 
 ## What I Do
 
 * [USACO](http://usaco.org)
+* [ACSL]([http://usaco.org](https://www.acsl.org/))
 * [Codeforces](https://codeforces.com/)
 * [Hackathons](https://devpost.com/)
 * Websites
@@ -31,7 +32,12 @@ I am a person who really likes to code. **Check out [Nebulus](https://nebulus.ap
 
 ## Achievements
 * USACO Level: `Silver`
-* Hackathons Won: `2/2`
+* Won `3` Hackatons
+* ACSL Nationals
+* `20` on AMC 8
+* `97.5` on AMC 10
+* `29` on MS Mathleague
+* Cello, Piano, Latin, Mandarin, and Pre-Calculus
 
 ## GitHub Information
 [![Nicholas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicholasxwang)](https://github.com/nicholasxwang/github-readme-stats)
