@@ -1,6 +1,9 @@
-# 👋 Hello! I'm Nicholas.
+# 👋 Hello! I'm Nicholas Wang. 
+### `AKA: 汪蓄辉`   `he/him Pronouns`
 
-I am a Middle School Developer and Student at [BASIS Independent Silicon Valley](https://siliconvalley.basisindependent.com/).
+
+I am a Middle School Developer and Student at [BASIS Independent Silicon Valley](https://siliconvalley.basisindependent.com/). I compete in mathmetics, programming, and music. I enjoy coding.
+
 
 ## Coding Languages
 
@@ -27,6 +30,7 @@ I am a Middle School Developer and Student at [BASIS Independent Silicon Valley]
 * Websites
 * [Discord Bots](https://discord.com/developers)
 
+
 ## Projects
 
 * [Terminal JS](https://github.com/terminal-js) with [`Blackhole11232`](https://github.com/Blackhole11232)
@@ -42,8 +46,14 @@ I am a Middle School Developer and Student at [BASIS Independent Silicon Valley]
 * Certificate of Merit Piano Level 10
 * Piano Competitions
 * Cello in an Orchestra
-* Trilingual: Mandarin, Latin, Englis\
+* Trilingual: Mandarin, Latin, English
 
+## Education
+● `2015 - 2019` | [**Evergreen Elementary School**](https://evergreen.eesd.org/). 
+
+| 
+
+● `2019 - Present` | [**BASIS Independent Silicon Valley**](https://siliconvalley.basisindependent.com/). 
 
 ## GitHub Information
 [![Nicholas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicholasxwang)](https://github.com/nicholasxwang/github-readme-stats)
