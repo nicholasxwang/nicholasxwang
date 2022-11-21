@@ -62,3 +62,36 @@
 *  Replit: [`nicholasxwang`](https://replit.com/@nicholasxwang)
 *  YouTube: [`nicholasxwang`](https://www.youtube.com/@nicholasxwang)
 *  Email: `nicholas@nebulus.app`
+
+## 🤖 Raw Profile
+
+```json
+
+{
+  "name": {
+    "en": "Nicholas Wang",
+    "cn": "汪蓄辉"
+  },
+  "description": {
+    "en": "I am a Middle School Developer and Student at BASIS Independent Silicon Valley. I compete in mathmetics, programming, and music. I enjoy coding. My pronouns are ',he/him',. ",
+    "cn": "你好！我是 硅谷贝赛思学校 的一名中学开发人员和学生。 我参加数学、编程和音乐比赛。 我喜欢编程。 ",
+    "la": "Salve! Medium ludum sum aedificator et discipulus apud BASIS Independent Silicon Valley. Certati in mathematica, programmatione et musica. ego frui aedificationem."
+  },
+  "languages": [
+    "HTML",
+    "CSS",
+    "C++",
+    "JavaScript",
+    "Python",
+    "Java",
+    "Arduino"
+  ],
+  "skills": [
+    "MongoDB",
+    "Algorithms",
+    "USACO",
+    "DigitalOcean"
+  ]
+}
+
+```
