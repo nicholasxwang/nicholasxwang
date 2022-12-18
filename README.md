@@ -61,6 +61,9 @@
 *  DevPost: [`nicholasxwang`](https://devpost.com/nicholasxwang)
 *  Replit: [`nicholasxwang`](https://replit.com/@nicholasxwang)
 *  YouTube: [`nicholasxwang`](https://www.youtube.com/@nicholasxwang)
+*  Twitter: [`nicholasxwang`](https://twitter.com/Nicholasxwang)
+*  Spotify: [`Nicholas W`](https://open.spotify.com/user/kkbp42dkp4hweuogt99r8t8wf)
+*  Reddit: [`TypeOdd6589`](https://www.reddit.com/u/TypeOdd6589)
 *  Email: `nicholas@nebulus.app`
 
 ## 🤖 Raw Profile
